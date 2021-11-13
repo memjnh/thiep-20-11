@@ -1,4 +1,4 @@
-const nameGirl = 'Cô Tin';
+const nameGirl = ' ';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'Chúc Mừng Ngày Nhà Giáo Việt Nam 20-11';
 const titleCard = 'Tặng Cô Tin';
